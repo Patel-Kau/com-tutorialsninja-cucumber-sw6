@@ -1,0 +1,266 @@
+2023-05-16 00:05:969 INFO  HomePage :54 - mouseHover On DesktopsLink And Click  [[ChromeDriver: chrome on WINDOWS (4e1bce09099ad85721e7b837d8b90caf)] -> link text: Desktops]
+2023-05-16 00:05:713 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (2ad66520c1a96c7f2ff84a5824427ae1)] -> link text: Laptops & Notebooks]
+2023-05-16 00:05:967 INFO  HomePage :66 - mouseHover On Component  And Click  [[ChromeDriver: chrome on WINDOWS (1c03050ffa29c701e108154debf69a6b)] -> link text: Components]
+2023-05-16 10:05:85 INFO  HomePage :54 - mouseHover On DesktopsLink And Click  [[ChromeDriver: chrome on WINDOWS (7f1706d2d07eb59301284a531e880e83)] -> link text: Desktops]
+2023-05-16 10:05:240 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 10:05:176 INFO  HomePage :54 - mouseHover On DesktopsLink And Click  [[ChromeDriver: chrome on WINDOWS (0818377b51df8ab607c2d8d62170c386)] -> link text: Desktops]
+2023-05-16 10:05:325 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 10:05:72 INFO  HomePage :54 - mouseHover On DesktopsLink And Click  [[ChromeDriver: chrome on WINDOWS (7590ee2073ffee335a465729e8180e88)] -> link text: Desktops]
+2023-05-16 10:05:221 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 10:05:318 INFO  DesktopPage :34 - get Desktops Text  [[ChromeDriver: chrome on WINDOWS (7590ee2073ffee335a465729e8180e88)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-05-16 11:05:338 INFO  HomePage :54 - mouseHover On DesktopsLink And Click  [[ChromeDriver: chrome on WINDOWS (51accd239da174a553578385332fbe35)] -> link text: Desktops]
+2023-05-16 11:05:495 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 11:05:737 INFO  DesktopPage :34 - get Desktops Text  [[ChromeDriver: chrome on WINDOWS (51accd239da174a553578385332fbe35)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-05-16 11:05:977 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (a73469ec6b5f63bbaefb8bd2d2d24da3)] -> link text: Laptops & Notebooks]
+2023-05-16 11:05:118 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 11:05:431 INFO  HomePage :54 - mouseHover On DesktopsLink And Click  [[ChromeDriver: chrome on WINDOWS (24c9818d08a4da7ae1b707e77510e6c2)] -> link text: Desktops]
+2023-05-16 11:05:573 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 11:05:577 INFO  DesktopPage :34 - get Desktops Text  [[ChromeDriver: chrome on WINDOWS (24c9818d08a4da7ae1b707e77510e6c2)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-05-16 11:05:106 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (14b9420646cae96993b56ef821a480f7)] -> link text: Laptops & Notebooks]
+2023-05-16 11:05:249 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 12:05:12 INFO  HomePage :54 - mouseHover On DesktopsLink And Click  [[ChromeDriver: chrome on WINDOWS (75b2b9ddc0474d9fa4b30b7392512665)] -> link text: Desktops]
+2023-05-16 12:05:174 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 12:05:464 INFO  DesktopPage :34 - get Desktops Text  [[ChromeDriver: chrome on WINDOWS (75b2b9ddc0474d9fa4b30b7392512665)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-05-16 12:05:180 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (9dd32a8fddbcf7b9c4028d90c3a345e1)] -> link text: Laptops & Notebooks]
+2023-05-16 12:05:327 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 12:05:244 INFO  HomePage :66 - mouseHover On Component  And Click  [[ChromeDriver: chrome on WINDOWS (d3cb1faafaf792bba7cdb6459d874024)] -> link text: Components]
+2023-05-16 12:05:389 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 12:05:278 INFO  HomePage :54 - mouseHover On DesktopsLink And Click  [[ChromeDriver: chrome on WINDOWS (34dbaa15a5404317b5c30ab29f1e72da)] -> link text: Desktops]
+2023-05-16 12:05:433 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 12:05:689 INFO  DesktopPage :34 - get Desktops Text  [[ChromeDriver: chrome on WINDOWS (34dbaa15a5404317b5c30ab29f1e72da)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-05-16 12:05:956 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (518c1871493d4522ad3a432521fcbe5b)] -> link text: Laptops & Notebooks]
+2023-05-16 12:05:100 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 12:05:86 INFO  HomePage :66 - mouseHover On Component  And Click  [[ChromeDriver: chrome on WINDOWS (778c00102ad52f19bb991541ea0a470f)] -> link text: Components]
+2023-05-16 12:05:234 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 12:05:895 INFO  ComponentsPage :26 - Get component Text  [[ChromeDriver: chrome on WINDOWS (778c00102ad52f19bb991541ea0a470f)] -> xpath: //h2[contains(text(),'Components')]]
+2023-05-16 12:05:149 INFO  HomePage :54 - mouseHover On DesktopsLink And Click  [[ChromeDriver: chrome on WINDOWS (1296c01690a733c9656f7897d032a50e)] -> link text: Desktops]
+2023-05-16 12:05:349 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 12:05:612 INFO  DesktopPage :34 - get Desktops Text  [[ChromeDriver: chrome on WINDOWS (1296c01690a733c9656f7897d032a50e)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-05-16 12:05:852 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (5435664572d456ae455cdedb0c84cb8d)] -> link text: Laptops & Notebooks]
+2023-05-16 12:05:11 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 12:05:853 INFO  HomePage :66 - mouseHover On Component  And Click  [[ChromeDriver: chrome on WINDOWS (cecf40c205c715ed3c8ba8b4a2b8f80d)] -> link text: Components]
+2023-05-16 12:05:09 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-16 12:05:820 INFO  ComponentsPage :26 - Get component Text  [[ChromeDriver: chrome on WINDOWS (cecf40c205c715ed3c8ba8b4a2b8f80d)] -> xpath: //h2[contains(text(),'Components')]]
+2023-05-17 00:05:681 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (31fe948293e92ea8acb7a9ece8976270)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 00:05:395 INFO  HomePage :54 - mouseHover On DesktopsLink And Click  [[ChromeDriver: chrome on WINDOWS (b9f7832b4778a8c96131e411803cb0ea)] -> link text: Desktops]
+2023-05-17 00:05:545 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 00:05:527 INFO  DesktopPage :34 - get Desktops Text  [[ChromeDriver: chrome on WINDOWS (b9f7832b4778a8c96131e411803cb0ea)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-05-17 01:05:788 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (ed0937c58abdff8ed5ab3a28d210b25a)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:381 INFO  AccountLoginPage :41 - Returning Customer Text [[ChromeDriver: chrome on WINDOWS (ed0937c58abdff8ed5ab3a28d210b25a)] -> xpath: //div[@id='content']/div/div[2]//h2]
+2023-05-17 01:05:430 INFO  HomePage :54 - mouseHover On DesktopsLink And Click  [[ChromeDriver: chrome on WINDOWS (28b4b24500e8b477ad504999df93142b)] -> link text: Desktops]
+2023-05-17 01:05:586 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 01:05:609 INFO  DesktopPage :34 - get Desktops Text  [[ChromeDriver: chrome on WINDOWS (28b4b24500e8b477ad504999df93142b)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-05-17 01:05:773 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (e0b85aa6e75981c28d69ab928aae16eb)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:398 INFO  AccountLoginPage :41 - Returning Customer Text [[ChromeDriver: chrome on WINDOWS (e0b85aa6e75981c28d69ab928aae16eb)] -> xpath: //div[@id='content']/div/div[2]//h2]
+2023-05-17 01:05:575 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (e89232cfdaa36352ae2735e0b261414a)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:146 INFO  AccountLoginPage :52 - Enter EmailId [[ChromeDriver: chrome on WINDOWS (e89232cfdaa36352ae2735e0b261414a)] -> id: input-email]
+2023-05-17 01:05:286 INFO  AccountLoginPage :58 - Enter Password [[ChromeDriver: chrome on WINDOWS (e89232cfdaa36352ae2735e0b261414a)] -> id: input-email]
+2023-05-17 01:05:389 INFO  AccountLoginPage :64 - Click on login Button [[ChromeDriver: chrome on WINDOWS (e89232cfdaa36352ae2735e0b261414a)] -> id: input-email]
+2023-05-17 01:05:856 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (e89232cfdaa36352ae2735e0b261414a)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:646 INFO  HomePage :54 - mouseHover On DesktopsLink And Click  [[ChromeDriver: chrome on WINDOWS (7ad3e5dc1bf67a424d9154b1fede9c68)] -> link text: Desktops]
+2023-05-17 01:05:812 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 01:05:788 INFO  DesktopPage :34 - get Desktops Text  [[ChromeDriver: chrome on WINDOWS (7ad3e5dc1bf67a424d9154b1fede9c68)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-05-17 01:05:01 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (fa1da67fe9ae2cd4d15659b9e571926a)] -> link text: Laptops & Notebooks]
+2023-05-17 01:05:140 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 01:05:870 INFO  LaptopsAndNotebooksPage :29 - Get Laptop & Notebook text By.xpath: //h2[contains(text(),'Laptops & Notebooks')]
+2023-05-17 01:05:898 INFO  HomePage :66 - mouseHover On Component  And Click  [[ChromeDriver: chrome on WINDOWS (5a812a9f6240b1ddcb47ffefbbb4923a)] -> link text: Components]
+2023-05-17 01:05:47 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 01:05:734 INFO  ComponentsPage :26 - Get component Text  [[ChromeDriver: chrome on WINDOWS (5a812a9f6240b1ddcb47ffefbbb4923a)] -> xpath: //h2[contains(text(),'Components')]]
+2023-05-17 01:05:649 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (fe6d48ff6a093ded474be3a5f9e7432d)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:264 INFO  AccountLoginPage :52 - Enter EmailId [[ChromeDriver: chrome on WINDOWS (fe6d48ff6a093ded474be3a5f9e7432d)] -> id: input-email]
+2023-05-17 01:05:409 INFO  AccountLoginPage :58 - Enter Password [[ChromeDriver: chrome on WINDOWS (fe6d48ff6a093ded474be3a5f9e7432d)] -> id: input-email]
+2023-05-17 01:05:519 INFO  AccountLoginPage :64 - Click on login Button [[ChromeDriver: chrome on WINDOWS (fe6d48ff6a093ded474be3a5f9e7432d)] -> id: input-email]
+2023-05-17 01:05:245 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (fe6d48ff6a093ded474be3a5f9e7432d)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:590 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (b7336337f9da45d896a173dd6672d658)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:196 INFO  AccountLoginPage :41 - Returning Customer Text [[ChromeDriver: chrome on WINDOWS (b7336337f9da45d896a173dd6672d658)] -> xpath: //div[@id='content']/div/div[2]//h2]
+2023-05-17 01:05:342 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (ea8a920991f1fabb35abaa0558423705)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:914 INFO  AccountLoginPage :52 - Enter EmailId [[ChromeDriver: chrome on WINDOWS (ea8a920991f1fabb35abaa0558423705)] -> id: input-email]
+2023-05-17 01:05:60 INFO  AccountLoginPage :58 - Enter Password [[ChromeDriver: chrome on WINDOWS (ea8a920991f1fabb35abaa0558423705)] -> id: input-email]
+2023-05-17 01:05:153 INFO  AccountLoginPage :64 - Click on login Button [[ChromeDriver: chrome on WINDOWS (ea8a920991f1fabb35abaa0558423705)] -> id: input-email]
+2023-05-17 01:05:850 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (ea8a920991f1fabb35abaa0558423705)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:131 INFO  HomePage :54 - mouseHover On DesktopsLink And Click  [[ChromeDriver: chrome on WINDOWS (63ce845234bdb3acd0b75526a15bb943)] -> link text: Desktops]
+2023-05-17 01:05:266 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 01:05:251 INFO  DesktopPage :34 - get Desktops Text  [[ChromeDriver: chrome on WINDOWS (63ce845234bdb3acd0b75526a15bb943)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-05-17 01:05:87 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (b17e0d74762f770a626e78ff9f669754)] -> link text: Laptops & Notebooks]
+2023-05-17 01:05:220 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 01:05:891 INFO  LaptopsAndNotebooksPage :29 - Get Laptop & Notebook text By.xpath: //h2[contains(text(),'Laptops & Notebooks')]
+2023-05-17 01:05:10 INFO  HomePage :66 - mouseHover On Component  And Click  [[ChromeDriver: chrome on WINDOWS (517aebd1c13c6e11b2cba4dffca69d4a)] -> link text: Components]
+2023-05-17 01:05:158 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 01:05:836 INFO  ComponentsPage :26 - Get component Text  [[ChromeDriver: chrome on WINDOWS (517aebd1c13c6e11b2cba4dffca69d4a)] -> xpath: //h2[contains(text(),'Components')]]
+2023-05-17 01:05:606 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (ef9a9e08222ecd6d5d7dad56246f9c9c)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:182 INFO  AccountLoginPage :52 - Enter EmailId [[ChromeDriver: chrome on WINDOWS (ef9a9e08222ecd6d5d7dad56246f9c9c)] -> id: input-email]
+2023-05-17 01:05:335 INFO  AccountLoginPage :58 - Enter Password [[ChromeDriver: chrome on WINDOWS (ef9a9e08222ecd6d5d7dad56246f9c9c)] -> id: input-email]
+2023-05-17 01:05:435 INFO  AccountLoginPage :64 - Click on login Button [[ChromeDriver: chrome on WINDOWS (ef9a9e08222ecd6d5d7dad56246f9c9c)] -> id: input-email]
+2023-05-17 01:05:136 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (ef9a9e08222ecd6d5d7dad56246f9c9c)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:690 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (c52ae86842a977bf46b9f88520ff73c0)] -> link text: Laptops & Notebooks]
+2023-05-17 01:05:820 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 01:05:530 INFO  LaptopsAndNotebooksPage :29 - Get Laptop & Notebook text By.xpath: //h2[contains(text(),'Laptops & Notebooks')]
+2023-05-17 01:05:949 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (3c897619608a237cd4e2647c8e21959d)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:606 INFO  AccountLoginPage :52 - Enter EmailId [[ChromeDriver: chrome on WINDOWS (3c897619608a237cd4e2647c8e21959d)] -> id: input-email]
+2023-05-17 01:05:756 INFO  AccountLoginPage :58 - Enter Password [[ChromeDriver: chrome on WINDOWS (3c897619608a237cd4e2647c8e21959d)] -> id: input-email]
+2023-05-17 01:05:871 INFO  AccountLoginPage :64 - Click on login Button [[ChromeDriver: chrome on WINDOWS (3c897619608a237cd4e2647c8e21959d)] -> id: input-email]
+2023-05-17 01:05:652 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (3c897619608a237cd4e2647c8e21959d)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:820 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (86a6f822bc95ca495b16b2d4cc87c033)] -> link text: Laptops & Notebooks]
+2023-05-17 01:05:966 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 01:05:654 INFO  LaptopsAndNotebooksPage :29 - Get Laptop & Notebook text By.xpath: //h2[contains(text(),'Laptops & Notebooks')]
+2023-05-17 01:05:722 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (aac9cd51e10f622af2073874cc45485d)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:378 INFO  AccountLoginPage :52 - Enter EmailId [[ChromeDriver: chrome on WINDOWS (aac9cd51e10f622af2073874cc45485d)] -> id: input-email]
+2023-05-17 01:05:519 INFO  AccountLoginPage :58 - Enter Password [[ChromeDriver: chrome on WINDOWS (aac9cd51e10f622af2073874cc45485d)] -> id: input-email]
+2023-05-17 01:05:614 INFO  AccountLoginPage :64 - Click on login Button [[ChromeDriver: chrome on WINDOWS (aac9cd51e10f622af2073874cc45485d)] -> id: input-email]
+2023-05-17 01:05:351 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (aac9cd51e10f622af2073874cc45485d)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:409 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (8916941f9cf0707adf23716cccb83ca2)] -> link text: Laptops & Notebooks]
+2023-05-17 01:05:555 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 01:05:249 INFO  LaptopsAndNotebooksPage :29 - Get Laptop & Notebook text By.xpath: //h2[contains(text(),'Laptops & Notebooks')]
+2023-05-17 01:05:559 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (1af29c0d9618794e1a88aeba46b1269f)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:175 INFO  AccountLoginPage :52 - Enter EmailId [[ChromeDriver: chrome on WINDOWS (1af29c0d9618794e1a88aeba46b1269f)] -> id: input-email]
+2023-05-17 01:05:333 INFO  AccountLoginPage :58 - Enter Password [[ChromeDriver: chrome on WINDOWS (1af29c0d9618794e1a88aeba46b1269f)] -> id: input-email]
+2023-05-17 01:05:448 INFO  AccountLoginPage :64 - Click on login Button [[ChromeDriver: chrome on WINDOWS (1af29c0d9618794e1a88aeba46b1269f)] -> id: input-email]
+2023-05-17 01:05:197 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (1af29c0d9618794e1a88aeba46b1269f)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 01:05:52 INFO  MyAccountPage :28 - get Account Logout Text  [[ChromeDriver: chrome on WINDOWS (1af29c0d9618794e1a88aeba46b1269f)] -> xpath: //h1[contains(text(),'Account Logout')]]
+2023-05-17 01:05:13 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (40615db21168457a6e5fca3882cf96dc)] -> link text: Laptops & Notebooks]
+2023-05-17 01:05:156 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 01:05:859 INFO  LaptopsAndNotebooksPage :29 - Get Laptop & Notebook text By.xpath: //h2[contains(text(),'Laptops & Notebooks')]
+2023-05-17 10:05:618 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (fd0756b2f518a669a2424de4e0c1c342)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 10:05:186 INFO  AccountLoginPage :52 - Enter EmailId [[ChromeDriver: chrome on WINDOWS (fd0756b2f518a669a2424de4e0c1c342)] -> id: input-email]
+2023-05-17 10:05:335 INFO  AccountLoginPage :58 - Enter Password [[ChromeDriver: chrome on WINDOWS (fd0756b2f518a669a2424de4e0c1c342)] -> id: input-email]
+2023-05-17 10:05:447 INFO  AccountLoginPage :64 - Click on login Button [[ChromeDriver: chrome on WINDOWS (fd0756b2f518a669a2424de4e0c1c342)] -> id: input-email]
+2023-05-17 10:05:148 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (fd0756b2f518a669a2424de4e0c1c342)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 10:05:961 INFO  MyAccountPage :28 - get Account Logout Text  [[ChromeDriver: chrome on WINDOWS (fd0756b2f518a669a2424de4e0c1c342)] -> xpath: //h1[contains(text(),'Account Logout')]]
+2023-05-17 10:05:410 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (612c42b7727649c927427208ee1b0410)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 10:05:705 INFO  AccountRegisterPage :61 - Enter First name [[ChromeDriver: chrome on WINDOWS (612c42b7727649c927427208ee1b0410)] -> id: input-firstname]
+2023-05-17 10:05:834 INFO  AccountRegisterPage :67 - Enter last name [[ChromeDriver: chrome on WINDOWS (612c42b7727649c927427208ee1b0410)] -> id: input-lastname]
+2023-05-17 10:05:930 INFO  AccountRegisterPage :73 - Enter Email  [[ChromeDriver: chrome on WINDOWS (612c42b7727649c927427208ee1b0410)] -> id: input-email]
+2023-05-17 10:05:61 INFO  AccountRegisterPage :79 - Enter telephone  [[ChromeDriver: chrome on WINDOWS (612c42b7727649c927427208ee1b0410)] -> id: input-telephone]
+2023-05-17 10:05:172 INFO  AccountRegisterPage :85 - Enter password  [[ChromeDriver: chrome on WINDOWS (612c42b7727649c927427208ee1b0410)] -> id: input-password]
+2023-05-17 10:05:285 INFO  AccountRegisterPage :91 - Enter Confirm password  [[ChromeDriver: chrome on WINDOWS (612c42b7727649c927427208ee1b0410)] -> id: input-password]
+2023-05-17 10:05:375 INFO  AccountRegisterPage :97 - select Subscription  By.xpath: //fieldset[3]//input
+2023-05-17 10:05:409 INFO  AccountRegisterPage :109 - click On Privacy Policy CheckBox  By.xpath: //fieldset[3]//input
+2023-05-17 10:05:480 INFO  AccountRegisterPage :115 - click On Continue Button  [[ChromeDriver: chrome on WINDOWS (612c42b7727649c927427208ee1b0410)] -> xpath: //div[@class = 'buttons']//input[@value='Continue']]
+2023-05-17 10:05:950 INFO  MyAccountPage :33 - get Your Account Has Been Created Text  Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Your Account Has Been Created!')]'
+2023-05-17 10:05:421 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (c0be37a58e53cb2213cfc4fde7420c4d)] -> link text: Laptops & Notebooks]
+2023-05-17 10:05:553 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 10:05:262 INFO  LaptopsAndNotebooksPage :29 - Get Laptop & Notebook text By.xpath: //h2[contains(text(),'Laptops & Notebooks')]
+2023-05-17 11:05:89 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (770fec66fbea50b246f667d5254a341b)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:732 INFO  AccountLoginPage :52 - Enter EmailId [[ChromeDriver: chrome on WINDOWS (770fec66fbea50b246f667d5254a341b)] -> id: input-email]
+2023-05-17 11:05:934 INFO  AccountLoginPage :58 - Enter Password [[ChromeDriver: chrome on WINDOWS (770fec66fbea50b246f667d5254a341b)] -> id: input-email]
+2023-05-17 11:05:58 INFO  AccountLoginPage :64 - Click on login Button [[ChromeDriver: chrome on WINDOWS (770fec66fbea50b246f667d5254a341b)] -> id: input-email]
+2023-05-17 11:05:755 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (770fec66fbea50b246f667d5254a341b)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:785 INFO  MyAccountPage :28 - get Account Logout Text  [[ChromeDriver: chrome on WINDOWS (770fec66fbea50b246f667d5254a341b)] -> xpath: //h1[contains(text(),'Account Logout')]]
+2023-05-17 11:05:917 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (85e18a10dbe3152b6b5fcbe702e689ce)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:103 INFO  AccountRegisterPage :61 - Enter First name [[ChromeDriver: chrome on WINDOWS (85e18a10dbe3152b6b5fcbe702e689ce)] -> id: input-firstname]
+2023-05-17 11:05:264 INFO  AccountRegisterPage :67 - Enter last name [[ChromeDriver: chrome on WINDOWS (85e18a10dbe3152b6b5fcbe702e689ce)] -> id: input-lastname]
+2023-05-17 11:05:390 INFO  AccountRegisterPage :73 - Enter Email  [[ChromeDriver: chrome on WINDOWS (85e18a10dbe3152b6b5fcbe702e689ce)] -> id: input-email]
+2023-05-17 11:05:554 INFO  AccountRegisterPage :79 - Enter telephone  [[ChromeDriver: chrome on WINDOWS (85e18a10dbe3152b6b5fcbe702e689ce)] -> id: input-telephone]
+2023-05-17 11:05:695 INFO  AccountRegisterPage :85 - Enter password  [[ChromeDriver: chrome on WINDOWS (85e18a10dbe3152b6b5fcbe702e689ce)] -> id: input-password]
+2023-05-17 11:05:837 INFO  AccountRegisterPage :91 - Enter Confirm password  [[ChromeDriver: chrome on WINDOWS (85e18a10dbe3152b6b5fcbe702e689ce)] -> id: input-password]
+2023-05-17 11:05:943 INFO  AccountRegisterPage :97 - select Subscription  By.xpath: //fieldset[3]//input
+2023-05-17 11:05:989 INFO  AccountRegisterPage :109 - click On Privacy Policy CheckBox  By.xpath: //fieldset[3]//input
+2023-05-17 11:05:76 INFO  AccountRegisterPage :115 - click On Continue Button  [[ChromeDriver: chrome on WINDOWS (85e18a10dbe3152b6b5fcbe702e689ce)] -> xpath: //div[@class = 'buttons']//input[@value='Continue']]
+2023-05-17 11:05:633 INFO  MyAccountPage :34 - get Your Account Has Been Created Text  Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Your Account Has Been Created!')]'
+2023-05-17 11:05:702 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (21827659fd2d51d8c79e5426e9aed9e8)] -> link text: Laptops & Notebooks]
+2023-05-17 11:05:844 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 11:05:561 INFO  LaptopsAndNotebooksPage :29 - Get Laptop & Notebook text By.xpath: //h2[contains(text(),'Laptops & Notebooks')]
+2023-05-17 11:05:540 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (c91797ef70620e4e2921feee1439d980)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:218 INFO  AccountLoginPage :52 - Enter EmailId [[ChromeDriver: chrome on WINDOWS (c91797ef70620e4e2921feee1439d980)] -> id: input-email]
+2023-05-17 11:05:396 INFO  AccountLoginPage :58 - Enter Password [[ChromeDriver: chrome on WINDOWS (c91797ef70620e4e2921feee1439d980)] -> id: input-email]
+2023-05-17 11:05:519 INFO  AccountLoginPage :64 - Click on login Button [[ChromeDriver: chrome on WINDOWS (c91797ef70620e4e2921feee1439d980)] -> id: input-email]
+2023-05-17 11:05:240 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (c91797ef70620e4e2921feee1439d980)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:82 INFO  MyAccountPage :28 - get Account Logout Text  [[ChromeDriver: chrome on WINDOWS (c91797ef70620e4e2921feee1439d980)] -> xpath: //h1[contains(text(),'Account Logout')]]
+2023-05-17 11:05:300 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (38c4b2ee2c7ee36a6bd048cb59b5ce99)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:547 INFO  AccountRegisterPage :61 - Enter First name [[ChromeDriver: chrome on WINDOWS (38c4b2ee2c7ee36a6bd048cb59b5ce99)] -> id: input-firstname]
+2023-05-17 11:05:706 INFO  AccountRegisterPage :67 - Enter last name [[ChromeDriver: chrome on WINDOWS (38c4b2ee2c7ee36a6bd048cb59b5ce99)] -> id: input-lastname]
+2023-05-17 11:05:832 INFO  AccountRegisterPage :73 - Enter Email  [[ChromeDriver: chrome on WINDOWS (38c4b2ee2c7ee36a6bd048cb59b5ce99)] -> id: input-email]
+2023-05-17 11:05:982 INFO  AccountRegisterPage :79 - Enter telephone  [[ChromeDriver: chrome on WINDOWS (38c4b2ee2c7ee36a6bd048cb59b5ce99)] -> id: input-telephone]
+2023-05-17 11:05:107 INFO  AccountRegisterPage :85 - Enter password  [[ChromeDriver: chrome on WINDOWS (38c4b2ee2c7ee36a6bd048cb59b5ce99)] -> id: input-password]
+2023-05-17 11:05:247 INFO  AccountRegisterPage :91 - Enter Confirm password  [[ChromeDriver: chrome on WINDOWS (38c4b2ee2c7ee36a6bd048cb59b5ce99)] -> id: input-password]
+2023-05-17 11:05:358 INFO  AccountRegisterPage :97 - select Subscription  By.xpath: //fieldset[3]//input
+2023-05-17 11:05:401 INFO  AccountRegisterPage :109 - click On Privacy Policy CheckBox  By.xpath: //fieldset[3]//input
+2023-05-17 11:05:492 INFO  AccountRegisterPage :115 - click On Continue Button  [[ChromeDriver: chrome on WINDOWS (38c4b2ee2c7ee36a6bd048cb59b5ce99)] -> xpath: //div[@class = 'buttons']//input[@value='Continue']]
+2023-05-17 11:05:82 INFO  MyAccountPage :34 - get Your Account Has Been Created Text  Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Your Account Has Been Created!')]'
+2023-05-17 11:05:00 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (1dca5e451cfc3b7a2d1278e2c7a1c060)] -> link text: Laptops & Notebooks]
+2023-05-17 11:05:142 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 11:05:46 INFO  LaptopsAndNotebooksPage :29 - Get Laptop & Notebook text By.xpath: //h2[contains(text(),'Laptops & Notebooks')]
+2023-05-17 11:05:540 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (2ff149329d9ec85c9b9041a539d524b1)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:269 INFO  AccountLoginPage :52 - Enter EmailId [[ChromeDriver: chrome on WINDOWS (2ff149329d9ec85c9b9041a539d524b1)] -> id: input-email]
+2023-05-17 11:05:560 INFO  AccountLoginPage :58 - Enter Password [[ChromeDriver: chrome on WINDOWS (2ff149329d9ec85c9b9041a539d524b1)] -> id: input-email]
+2023-05-17 11:05:773 INFO  AccountLoginPage :64 - Click on login Button [[ChromeDriver: chrome on WINDOWS (2ff149329d9ec85c9b9041a539d524b1)] -> id: input-email]
+2023-05-17 11:05:586 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (2ff149329d9ec85c9b9041a539d524b1)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:483 INFO  MyAccountPage :28 - get Account Logout Text  [[ChromeDriver: chrome on WINDOWS (2ff149329d9ec85c9b9041a539d524b1)] -> xpath: //h1[contains(text(),'Account Logout')]]
+2023-05-17 11:05:179 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (eddb5a2afa7ebb577ddb70436fc63311)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:441 INFO  AccountRegisterPage :61 - Enter First name [[ChromeDriver: chrome on WINDOWS (eddb5a2afa7ebb577ddb70436fc63311)] -> id: input-firstname]
+2023-05-17 11:05:649 INFO  AccountRegisterPage :67 - Enter last name [[ChromeDriver: chrome on WINDOWS (eddb5a2afa7ebb577ddb70436fc63311)] -> id: input-lastname]
+2023-05-17 11:05:804 INFO  AccountRegisterPage :73 - Enter Email  [[ChromeDriver: chrome on WINDOWS (eddb5a2afa7ebb577ddb70436fc63311)] -> id: input-email]
+2023-05-17 11:05:68 INFO  AccountRegisterPage :79 - Enter telephone  [[ChromeDriver: chrome on WINDOWS (eddb5a2afa7ebb577ddb70436fc63311)] -> id: input-telephone]
+2023-05-17 11:05:280 INFO  AccountRegisterPage :85 - Enter password  [[ChromeDriver: chrome on WINDOWS (eddb5a2afa7ebb577ddb70436fc63311)] -> id: input-password]
+2023-05-17 11:05:440 INFO  AccountRegisterPage :91 - Enter Confirm password  [[ChromeDriver: chrome on WINDOWS (eddb5a2afa7ebb577ddb70436fc63311)] -> id: input-password]
+2023-05-17 11:05:644 INFO  AccountRegisterPage :97 - select Subscription  By.xpath: //fieldset[3]//input
+2023-05-17 11:05:720 INFO  AccountRegisterPage :109 - click On Privacy Policy CheckBox  By.xpath: //fieldset[3]//input
+2023-05-17 11:05:892 INFO  AccountRegisterPage :115 - click On Continue Button  [[ChromeDriver: chrome on WINDOWS (eddb5a2afa7ebb577ddb70436fc63311)] -> xpath: //div[@class = 'buttons']//input[@value='Continue']]
+2023-05-17 11:05:515 INFO  MyAccountPage :34 - get Your Account Has Been Created Text  Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Your Account Has Been Created!')]'
+2023-05-17 11:05:364 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (4b5e8b3de81d118c58a17833edbffcc0)] -> link text: Laptops & Notebooks]
+2023-05-17 11:05:608 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 11:05:406 INFO  LaptopsAndNotebooksPage :29 - Get Laptop & Notebook text By.xpath: //h2[contains(text(),'Laptops & Notebooks')]
+2023-05-17 11:05:220 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (09d0e5da25d5d954b0533678c97715a5)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:901 INFO  AccountLoginPage :52 - Enter EmailId [[ChromeDriver: chrome on WINDOWS (09d0e5da25d5d954b0533678c97715a5)] -> id: input-email]
+2023-05-17 11:05:83 INFO  AccountLoginPage :58 - Enter Password [[ChromeDriver: chrome on WINDOWS (09d0e5da25d5d954b0533678c97715a5)] -> id: input-email]
+2023-05-17 11:05:212 INFO  AccountLoginPage :64 - Click on login Button [[ChromeDriver: chrome on WINDOWS (09d0e5da25d5d954b0533678c97715a5)] -> id: input-email]
+2023-05-17 11:05:957 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (09d0e5da25d5d954b0533678c97715a5)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:814 INFO  MyAccountPage :28 - get Account Logout Text  [[ChromeDriver: chrome on WINDOWS (09d0e5da25d5d954b0533678c97715a5)] -> xpath: //h1[contains(text(),'Account Logout')]]
+2023-05-17 11:05:460 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (4c156cd87ee52e4de23d7415627badab)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:710 INFO  AccountRegisterPage :61 - Enter First name [[ChromeDriver: chrome on WINDOWS (4c156cd87ee52e4de23d7415627badab)] -> id: input-firstname]
+2023-05-17 11:05:872 INFO  AccountRegisterPage :67 - Enter last name [[ChromeDriver: chrome on WINDOWS (4c156cd87ee52e4de23d7415627badab)] -> id: input-lastname]
+2023-05-17 11:05:995 INFO  AccountRegisterPage :73 - Enter Email  [[ChromeDriver: chrome on WINDOWS (4c156cd87ee52e4de23d7415627badab)] -> id: input-email]
+2023-05-17 11:05:155 INFO  AccountRegisterPage :79 - Enter telephone  [[ChromeDriver: chrome on WINDOWS (4c156cd87ee52e4de23d7415627badab)] -> id: input-telephone]
+2023-05-17 11:05:310 INFO  AccountRegisterPage :85 - Enter password  [[ChromeDriver: chrome on WINDOWS (4c156cd87ee52e4de23d7415627badab)] -> id: input-password]
+2023-05-17 11:05:425 INFO  AccountRegisterPage :91 - Enter Confirm password  [[ChromeDriver: chrome on WINDOWS (4c156cd87ee52e4de23d7415627badab)] -> id: input-password]
+2023-05-17 11:05:531 INFO  AccountRegisterPage :97 - select Subscription  By.xpath: //fieldset[3]//input
+2023-05-17 11:05:566 INFO  AccountRegisterPage :109 - click On Privacy Policy CheckBox  By.xpath: //fieldset[3]//input
+2023-05-17 11:05:661 INFO  AccountRegisterPage :115 - click On Continue Button  [[ChromeDriver: chrome on WINDOWS (4c156cd87ee52e4de23d7415627badab)] -> xpath: //div[@class = 'buttons']//input[@value='Continue']]
+2023-05-17 11:05:196 INFO  MyAccountPage :34 - get Your Account Has Been Created Text  Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Your Account Has Been Created!')]'
+2023-05-17 11:05:856 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (84fb3a6b8a20c584e17b73e27b95e823)] -> link text: Laptops & Notebooks]
+2023-05-17 11:05:10 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 11:05:735 INFO  LaptopsAndNotebooksPage :29 - Get Laptop & Notebook text By.xpath: //h2[contains(text(),'Laptops & Notebooks')]
+2023-05-17 11:05:441 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (eb57d529aac9b6f1ec51f39a61d9f9e7)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:59 INFO  AccountLoginPage :52 - Enter EmailId [[ChromeDriver: chrome on WINDOWS (eb57d529aac9b6f1ec51f39a61d9f9e7)] -> id: input-email]
+2023-05-17 11:05:266 INFO  AccountLoginPage :58 - Enter Password [[ChromeDriver: chrome on WINDOWS (eb57d529aac9b6f1ec51f39a61d9f9e7)] -> id: input-email]
+2023-05-17 11:05:387 INFO  AccountLoginPage :64 - Click on login Button [[ChromeDriver: chrome on WINDOWS (eb57d529aac9b6f1ec51f39a61d9f9e7)] -> id: input-email]
+2023-05-17 11:05:117 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (eb57d529aac9b6f1ec51f39a61d9f9e7)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:960 INFO  MyAccountPage :28 - get Account Logout Text  [[ChromeDriver: chrome on WINDOWS (eb57d529aac9b6f1ec51f39a61d9f9e7)] -> xpath: //h1[contains(text(),'Account Logout')]]
+2023-05-17 11:05:486 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (433770f9e43f2d696e81ccf1da305add)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:734 INFO  AccountRegisterPage :61 - Enter First name [[ChromeDriver: chrome on WINDOWS (433770f9e43f2d696e81ccf1da305add)] -> id: input-firstname]
+2023-05-17 11:05:884 INFO  AccountRegisterPage :67 - Enter last name [[ChromeDriver: chrome on WINDOWS (433770f9e43f2d696e81ccf1da305add)] -> id: input-lastname]
+2023-05-17 11:05:23 INFO  AccountRegisterPage :73 - Enter Email  [[ChromeDriver: chrome on WINDOWS (433770f9e43f2d696e81ccf1da305add)] -> id: input-email]
+2023-05-17 11:05:165 INFO  AccountRegisterPage :79 - Enter telephone  [[ChromeDriver: chrome on WINDOWS (433770f9e43f2d696e81ccf1da305add)] -> id: input-telephone]
+2023-05-17 11:05:323 INFO  AccountRegisterPage :85 - Enter password  [[ChromeDriver: chrome on WINDOWS (433770f9e43f2d696e81ccf1da305add)] -> id: input-password]
+2023-05-17 11:05:425 INFO  AccountRegisterPage :91 - Enter Confirm password  [[ChromeDriver: chrome on WINDOWS (433770f9e43f2d696e81ccf1da305add)] -> id: input-password]
+2023-05-17 11:05:539 INFO  AccountRegisterPage :97 - select Subscription  By.xpath: //fieldset[3]//input
+2023-05-17 11:05:574 INFO  AccountRegisterPage :109 - click On Privacy Policy CheckBox  By.xpath: //fieldset[3]//input
+2023-05-17 11:05:664 INFO  AccountRegisterPage :115 - click On Continue Button  [[ChromeDriver: chrome on WINDOWS (433770f9e43f2d696e81ccf1da305add)] -> xpath: //div[@class = 'buttons']//input[@value='Continue']]
+2023-05-17 11:05:516 INFO  MyAccountPage :34 - get Your Account Has Been Created Text  [[ChromeDriver: chrome on WINDOWS (433770f9e43f2d696e81ccf1da305add)] -> xpath: //h1[contains(text(),'Your Account Has Been Created!')]]
+2023-05-17 11:05:552 INFO  MyAccountPage :39 - Click on continue button [[ChromeDriver: chrome on WINDOWS (433770f9e43f2d696e81ccf1da305add)] -> xpath: //a[contains(text(),'Continue')]]
+2023-05-17 11:05:47 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (433770f9e43f2d696e81ccf1da305add)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 11:05:918 INFO  MyAccountPage :28 - get Account Logout Text  [[ChromeDriver: chrome on WINDOWS (433770f9e43f2d696e81ccf1da305add)] -> xpath: //h1[contains(text(),'Account Logout')]]
+2023-05-17 11:05:340 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (7480cdcdee82094a62cc260f927e242f)] -> link text: Laptops & Notebooks]
+2023-05-17 11:05:482 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 11:05:228 INFO  LaptopsAndNotebooksPage :29 - Get Laptop & Notebook text By.xpath: //h2[contains(text(),'Laptops & Notebooks')]
+2023-05-17 13:05:294 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (55a4e9233059c272f8de5bf65f88b9ef)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 13:05:933 INFO  AccountLoginPage :41 - Returning Customer Text [[ChromeDriver: chrome on WINDOWS (55a4e9233059c272f8de5bf65f88b9ef)] -> xpath: //div[@id='content']/div/div[2]//h2]
+2023-05-17 13:05:263 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (8fa165f4332ccf2ee17624f1bb1f67e8)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 13:05:454 INFO  AccountRegisterPage :55 - Get Register Account Text [[ChromeDriver: chrome on WINDOWS (8fa165f4332ccf2ee17624f1bb1f67e8)] -> xpath: //h1[contains(text(),'Register Account')]]
+2023-05-17 13:05:833 INFO  HomePage :73 - Select Currency  [[ChromeDriver: chrome on WINDOWS (9931ca1725b38b860009036e66b7d0c0)] -> xpath: //span[contains(text(),'Currency')]]
+2023-05-17 13:05:738 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (9931ca1725b38b860009036e66b7d0c0)] -> link text: Laptops & Notebooks]
+2023-05-17 13:05:883 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 13:05:191 INFO  HomePage :54 - mouseHover On DesktopsLink And Click  [[ChromeDriver: chrome on WINDOWS (ada4c5d1ac85fd4db181d29f3a18fe5b)] -> link text: Desktops]
+2023-05-17 13:05:316 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 13:05:300 INFO  DesktopPage :34 - get Desktops Text  [[ChromeDriver: chrome on WINDOWS (ada4c5d1ac85fd4db181d29f3a18fe5b)] -> xpath: //h2[contains(text(),'Desktops')]]
+2023-05-17 13:05:776 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (3460d50c4aa0c444d321aa32fd4f9f50)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 13:05:400 INFO  AccountLoginPage :41 - Returning Customer Text [[ChromeDriver: chrome on WINDOWS (3460d50c4aa0c444d321aa32fd4f9f50)] -> xpath: //div[@id='content']/div/div[2]//h2]
+2023-05-17 13:05:842 INFO  HomePage :87 - click On My QAccount Tab  [[ChromeDriver: chrome on WINDOWS (cdd67d86b5e86c26b38a44d14d2c973d)] -> xpath: //span[contains(text(),'My Account')]]
+2023-05-17 13:05:34 INFO  AccountRegisterPage :55 - Get Register Account Text [[ChromeDriver: chrome on WINDOWS (cdd67d86b5e86c26b38a44d14d2c973d)] -> xpath: //h1[contains(text(),'Register Account')]]
+2023-05-17 13:05:386 INFO  HomePage :73 - Select Currency  [[ChromeDriver: chrome on WINDOWS (266938397b1774a86cf5d2bb15c7b97f)] -> xpath: //span[contains(text(),'Currency')]]
+2023-05-17 13:05:273 INFO  HomePage :60 - mouseHover On Laptop  And Click  [[ChromeDriver: chrome on WINDOWS (266938397b1774a86cf5d2bb15c7b97f)] -> link text: Laptops & Notebooks]
+2023-05-17 13:05:416 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 13:05:660 INFO  LaptopsAndNotebooksPage :45 - Select sort by option By.id: input-sort
+2023-05-17 13:05:333 INFO  HomePage :54 - mouseHover On DesktopsLink And Click  [[ChromeDriver: chrome on WINDOWS (8019ac618ff312e248f2f69220b91cf0)] -> link text: Desktops]
+2023-05-17 13:05:475 INFO  HomePage :47 - select Menu  By.xpath: //nav[@id='menu']//ul/li[contains(@class, 'open')]/div/child::*
+2023-05-17 13:05:423 INFO  DesktopPage :34 - get Desktops Text  [[ChromeDriver: chrome on WINDOWS (8019ac618ff312e248f2f69220b91cf0)] -> xpath: //h2[contains(text(),'Desktops')]]

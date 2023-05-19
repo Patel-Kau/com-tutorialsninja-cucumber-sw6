@@ -1,0 +1,436 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5241890800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "verify user should navigate to the login page successfully",
+        "description": "",
+        "id": "account-login-page-test;verify-user-should-navigate-to-the-login-page-successfully",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 72285000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on the homepage",
+            "match": {
+              "location": "TopMenuSteps.userIsOnTheHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1140418900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click on My account tab",
+            "match": {
+              "location": "AccountLoginPageSteps.userClickOnMyAccountTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 480556300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click on account option \"Login\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Login",
+                  "offset": 30
+                }
+              ],
+              "location": "AccountLoginPageSteps.userClickOnAccountOption(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 54194000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify the text \"Returning Customer\" on Login page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Returning Customer",
+                  "offset": 17
+                }
+              ],
+              "location": "AccountLoginPageSteps.verifyTheTextOnLoginPage(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@sanity"
+          },
+          {
+            "line": 2,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Account login Page Test",
+    "description": "",
+    "id": "account-login-page-test",
+    "keyword": "Feature",
+    "uri": "accountloginpage.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4387023400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Verify user should navigate to login page successfully",
+        "description": "",
+        "id": "account-register-page-test;verify-user-should-navigate-to-login-page-successfully",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 21100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on the homepage",
+            "match": {
+              "location": "TopMenuSteps.userIsOnTheHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1087174700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User click on My account tab",
+            "match": {
+              "location": "AccountLoginPageSteps.userClickOnMyAccountTab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 21085053900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click on account option \"Register\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Register",
+                  "offset": 30
+                }
+              ],
+              "location": "AccountLoginPageSteps.userClickOnAccountOption(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 41877500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Verify the text \"Register Account\" on register page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Register Account",
+                  "offset": 17
+                }
+              ],
+              "location": "AccountRegisterPageTestSteps.verifyTheTextOnRegisterPage(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@sanity"
+          },
+          {
+            "line": 3,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Account Register Page Test",
+    "description": "",
+    "id": "account-register-page-test",
+    "keyword": "Feature",
+    "uri": "accountregisterpage.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4313793700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Verify product price display High to Low successfully",
+        "description": "",
+        "id": "laptops-and-notebooks-page-test;verify-product-price-display-high-to-low-successfully",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 22700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User is on the homepage",
+            "match": {
+              "location": "TopMenuSteps.userIsOnTheHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1861036500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user select currency \"£Pound Sterling\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "£Pound Sterling",
+                  "offset": 22
+                }
+              ],
+              "location": "LaptopsAndNotebooksTestSteps.userSelectCurrency(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 178283200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User mouse hover on Laptops And Notebooks Link And Click",
+            "match": {
+              "location": "LaptopsAndNotebooksTestSteps.userMouseHoverOnLaptopsAndNotebooksLinkAndClick()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2246557800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User select menu option \"Show AllLaptops \u0026 Notebooks\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Show AllLaptops \u0026 Notebooks",
+                  "offset": 25
+                }
+              ],
+              "location": "LaptopsAndNotebooksTestSteps.userSelectMenuOption(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 475449300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user select sort by option \"Price (High \u003e Low)\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Price (High \u003e Low)",
+                  "offset": 28
+                }
+              ],
+              "location": "LaptopsAndNotebooksTestSteps.userSelectSortByOption(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 22600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Verify all product shorted in price (High \u003e Low) order",
+            "match": {
+              "location": "LaptopsAndNotebooksTestSteps.verifyAllProductShortedInPriceHighLowOrder()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@sanity"
+          },
+          {
+            "line": 2,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Laptops and Notebooks Page Test",
+    "description": "",
+    "id": "laptops-and-notebooks-page-test",
+    "keyword": "Feature",
+    "uri": "laptopsandnotebookspage.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4164678800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "verify user should navigate to desktops page successfully",
+        "description": "",
+        "id": "top-menu-test;verify-user-should-navigate-to-desktops-page-successfully",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 25400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on the homepage",
+            "match": {
+              "location": "TopMenuSteps.userIsOnTheHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 160894300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Mouse hover on DesktopsMenu Tab and click",
+            "match": {
+              "location": "TopMenuSteps.mouseHoverOnDesktopsMenuTabAndClick()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1933580600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Select Menu \"Show AllDesktops\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Show AllDesktops",
+                  "offset": 13
+                }
+              ],
+              "location": "TopMenuSteps.selectMenu(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 29720000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Verify the text \"Desktops\" on desktop page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Desktops",
+                  "offset": 17
+                }
+              ],
+              "location": "TopMenuSteps.verifyTheTextOnDesktopPage(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@sanity"
+          },
+          {
+            "line": 3,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Top Menu Test",
+    "description": "",
+    "id": "top-menu-test",
+    "keyword": "Feature",
+    "uri": "topmenu.feature"
+  }
+]
